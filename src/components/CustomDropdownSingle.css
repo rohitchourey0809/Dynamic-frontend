@@ -1,0 +1,17 @@
+.custom-dropdown-single-container {
+  margin-bottom: 20px;
+}
+
+.custom-dropdown-single-label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.custom-dropdown-single-select {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
